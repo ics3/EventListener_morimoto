@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CreateScreen</string>
+    <string name="button1">ボタン1</string>
+    <string name="button2">戻る</string>
+    <string name="button3">ボタン2</string>
+    <string name="push">ボタンが押されました</string>
+    <string name="xy" />
+</resources>
